@@ -1,0 +1,1 @@
+execute at @s run playsound minecraft:entity.polar_bear.hurt hostile @a[distance=..7] ~ ~ ~ 0.5 1.25 0.5

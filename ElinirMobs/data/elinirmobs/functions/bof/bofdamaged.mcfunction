@@ -1,0 +1,1 @@
+execute at @s run playsound minecraft:entity.skeleton_horse.hurt hostile @a[distance=..128] ~ ~ ~ 1.0 1.25 0.5
